@@ -66,4 +66,4 @@
 *.js linguist-detectable=false
 *.html linguist-detectable=false
 *.xml linguist-detectable=false
-*.c++ linguist-detectable=true
+*.cpp linguist-detectable=true
